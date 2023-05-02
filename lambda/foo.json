@@ -1,0 +1,66 @@
+{
+    "Configuration": {
+        "FunctionName": "http-crud-purify-sensor-fnc",
+        "FunctionArn": "arn:aws:lambda:us-east-2:474971317339:function:http-crud-purify-sensor-fnc:$LATEST",
+        "Runtime": "nodejs18.x",
+        "Role": "arn:aws:iam::474971317339:role/service-role/http-crud-purify-role",
+        "Handler": "index.handler",
+        "CodeSize": 639,
+        "Description": "",
+        "Timeout": 3,
+        "MemorySize": 128,
+        "LastModified": "2023-04-27T12:48:48.000+0000",
+        "CodeSha256": "qk1Wyb2lvDjeWfdIP7wv7PS1mtqAIg1THjxuo+TOsrc=",
+        "Version": "$LATEST",
+        "VpcConfig": {
+            "SubnetIds": [
+                "subnet-070a270fe93d9f869",
+                "subnet-001ca368b2a2b607e",
+                "subnet-0240c95d3d935755a"
+            ],
+            "SecurityGroupIds": [
+                "sg-0a19ecc10ac703da3"
+            ],
+            "VpcId": "vpc-0c108a0c14b5e9e88"
+        },
+        "Environment": {
+            "Variables": {
+                "DB_PORT": "5432",
+                "DB_USER": "purify_user",
+                "DB_NAME": "purify_2",
+                "DB_HOST": "purify-2.csyrghww93tg.us-east-2.rds.amazonaws.com",
+                "DB_PASSWORD": "Go+G0odStuffH3re45$"
+            }
+        },
+        "TracingConfig": {
+            "Mode": "PassThrough"
+        },
+        "RevisionId": "e68dfac4-d51a-4e08-92d6-5510a3b1803a",
+        "Layers": [
+            {
+                "Arn": "arn:aws:lambda:us-east-2:474971317339:layer:utils:103",
+                "CodeSize": 244336
+            }
+        ],
+        "State": "Active",
+        "LastUpdateStatus": "Successful",
+        "PackageType": "Zip",
+        "Architectures": [
+            "x86_64"
+        ],
+        "EphemeralStorage": {
+            "Size": 512
+        },
+        "SnapStart": {
+            "ApplyOn": "None",
+            "OptimizationStatus": "Off"
+        },
+        "RuntimeVersionConfig": {
+            "RuntimeVersionArn": "arn:aws:lambda:us-east-2::runtime:a19cefba18c0aa228bfe71e81d95cc5aab18e4570e899b3cfd9f759f022c7f8c"
+        }
+    },
+    "Code": {
+        "RepositoryType": "S3",
+        "Location": "https://awslambda-us-east-2-tasks.s3.us-east-2.amazonaws.com/snapshots/474971317339/http-crud-purify-sensor-fnc-adb9b93d-5a23-45d0-91cc-0ba2c97b0e7d?versionId=elIpcU5I924dD1mqMyvO7c_K5aqoVrKX&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMiJIMEYCIQDYP22SNp%2Fmx7plcGgl9gZJJ8nBWeGz7Ph2uAJEgX6kJQIhAMwA3KoV7w7wg8Z6ueZ5%2FXTtoGMLOIXNxMDaG%2Fo%2BGQWfKrsFCMX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBBoMMTA0MjQ2MDE3ODY1IgzveHlXpsPS3NcQ5S0qjwWEtZsKDwtlrV7TD7mPgUPcWU1EhBKaLxkGb%2FqfZrE01QAqa%2BrZtl%2B%2BA6BhBJHiV3wDfzFjdiO2p0SgLVnWI6FMQhMyF4fx4RgteVtCR4eV0aHOzn6VyM89hudlzcLp%2BtcLBO%2F08MPmG27bgmln87%2B%2BfIlUpw6ujzGSbo17JYqCgb2jqepUELz5MJyJZwjtScq2obWlqEvrporf5akwg3tejEr7y%2FePteCCezcIGoUgb904U38NFRPKCRlUespPSnIQ3Sglwf1rWXhFFs10%2BoWg%2Fb%2BQHHnTRO1h%2F650B3ZFDBx31bNZH1WaIBOj3mGp2O%2FLIRn5VYurjNx8ghWltztvcBy%2BU1rtbKgix7rBfVTb7Sc1Anwe1g5mNdB9QyQRuu%2B7eKNUfl%2FwKh3lz0P6mNGKDxHl%2B7qThxZpMsipIFhznm7att6SNV%2Fm%2FtJvWF0xM%2Fmjj8ocynIqDqEdlaGwk9G1tmgrAxP9GJ2CWYDsovtK49zlOdswkWNx2qmnTuzEnEQpF18Uf1ghETI3cOmyYtDVME8Z15HeMPuulVgwhhcosBHLgVwQMT613uTwgmKtiAxWv4HFyZWjvih7bCj4a%2B2tEDc608Fm6ztYI7FPBq2ZVC4JnLtrgWDT1JeqKDoXP7IVniGtQD3EYbL4zER%2BlUGMI9RgsJF%2FKrBh3ZFeoEUEq0%2BqSuy0tRFCVTMDAvDX%2BAOSfFQjVnpP6IZuXMMC8QTfFwQQCyfoXZ1mc4kNhzBfJnhr248%2BRKnAff0OOwoxjBHpMQHAXkQlc%2FfVc%2FGhSqHhCbvIc92z%2BZ%2FdoWaYFD7GBbPFHSakO7zn8B7Z4uG8tHoZrIeuBflQ19%2FortXdNtD%2FL%2FgYZJJNw7utPdNi%2FL%2FdMNDOxaIGOrABXl%2Bfdz22G%2BbRh9go3yoLWoJQQoII%2BfbZPAthyEyz2XnLx580GN%2FtAzElL4gbkamUN8tZLU9pk1OETkoF%2FUFvsqMWRDvtytNGO%2BHmuBVJJLO66Ujh9qXiT3xKw0ACyE6TFf9oMXAKs5Z80yib8JEH9kiIiqjIrXhaNJAXeW97Qk7woytpw8%2BMENxGgEj%2B1kTBxWTbp3ZgxdVuIoy4CWj2bUlnhJrq4Gq%2Bw9IIbFhKGCI%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230502T203659Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Credential=ASIARQRML75E6BV4QIGK%2F20230502%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Signature=95af3a630dd5aa96cf254114d95d3cf8fa793332d0c8dedefe10781aa002ff25"
+    }
+}
