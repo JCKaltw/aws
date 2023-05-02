@@ -1,0 +1,7 @@
+purify-config
+purify-generator
+purify-generator-device
+purify-pairing
+purify-pairing-device
+purify-sensor
+purify-sensor-device
