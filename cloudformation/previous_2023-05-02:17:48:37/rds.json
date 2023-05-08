@@ -65,10 +65,8 @@
             ]
         },
         "PreferredMaintenanceWindow": "wed:08:46-wed:09:16",
-        "PendingModifiedValues": {
-            "DBInstanceClass": "db.t3.micro"
-        },
-        "LatestRestorableTime": "2023-05-08T14:19:37+00:00",
+        "PendingModifiedValues": {},
+        "LatestRestorableTime": "2023-05-02T17:44:39+00:00",
         "MultiAZ": false,
         "EngineVersion": "14.6",
         "AutoMinorVersionUpgrade": true,

@@ -9,6 +9,9 @@ if [ -d "./current" ]; then
   mv ./current ./previous_${TIMESTAMP}
 fi
 
+current_time=$(date +"%A, %B %d, %Y, at %l:%M%P %Z" | sed 's/ 0/ /g; s/A/am/; s/P/pm/')
+echo "Executing grab-all.sh  - ${current_time}"
+
 # Set up new current directory
 mkdir ./current
 

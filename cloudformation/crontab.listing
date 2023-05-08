@@ -1,0 +1,2 @@
+0 10 * * * /Users/chris/projects/aws/cloudformation/grab-all.sh >> /Users/chris/projects/aws/cloudformation/grab-all.log 2>&1
+0 15 * * * /Users/chris/projects/aws/cloudformation/grab-all.sh >> /Users/chris/projects/aws/cloudformation/grab-all.log 2>&1
