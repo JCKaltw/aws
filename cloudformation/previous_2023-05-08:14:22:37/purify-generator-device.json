@@ -1,0 +1,33 @@
+{
+    "Table": {
+        "AttributeDefinitions": [
+            {
+                "AttributeName": "serial",
+                "AttributeType": "S"
+            }
+        ],
+        "TableName": "purify-generator-device",
+        "KeySchema": [
+            {
+                "AttributeName": "serial",
+                "KeyType": "HASH"
+            }
+        ],
+        "TableStatus": "ACTIVE",
+        "CreationDateTime": "2023-03-28T09:46:35.322000-04:00",
+        "ProvisionedThroughput": {
+            "LastDecreaseDateTime": "2023-03-28T09:58:50.529000-04:00",
+            "NumberOfDecreasesToday": 0,
+            "ReadCapacityUnits": 0,
+            "WriteCapacityUnits": 0
+        },
+        "TableSizeBytes": 9690,
+        "ItemCount": 255,
+        "TableArn": "arn:aws:dynamodb:us-east-2:474971317339:table/purify-generator-device",
+        "TableId": "12ed4ad8-c1b5-4132-a15b-787ba0b94f21",
+        "BillingModeSummary": {
+            "BillingMode": "PAY_PER_REQUEST",
+            "LastUpdateToPayPerRequestDateTime": "2023-05-24T14:21:38.816000-04:00"
+        }
+    }
+}

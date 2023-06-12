@@ -1,0 +1,41 @@
+{
+    "Table": {
+        "AttributeDefinitions": [
+            {
+                "AttributeName": "serial",
+                "AttributeType": "S"
+            },
+            {
+                "AttributeName": "timestamp",
+                "AttributeType": "N"
+            }
+        ],
+        "TableName": "purify-generator",
+        "KeySchema": [
+            {
+                "AttributeName": "serial",
+                "KeyType": "HASH"
+            },
+            {
+                "AttributeName": "timestamp",
+                "KeyType": "RANGE"
+            }
+        ],
+        "TableStatus": "ACTIVE",
+        "CreationDateTime": "2023-03-24T14:51:44.364000-04:00",
+        "ProvisionedThroughput": {
+            "LastDecreaseDateTime": "2023-03-24T15:03:54.764000-04:00",
+            "NumberOfDecreasesToday": 0,
+            "ReadCapacityUnits": 0,
+            "WriteCapacityUnits": 0
+        },
+        "TableSizeBytes": 259009930,
+        "ItemCount": 682690,
+        "TableArn": "arn:aws:dynamodb:us-east-2:474971317339:table/purify-generator",
+        "TableId": "7ab476fe-d624-449b-a50e-c0941ddfb65f",
+        "BillingModeSummary": {
+            "BillingMode": "PAY_PER_REQUEST",
+            "LastUpdateToPayPerRequestDateTime": "2023-05-24T14:20:18.780000-04:00"
+        }
+    }
+}

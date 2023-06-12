@@ -1,0 +1,41 @@
+{
+    "Table": {
+        "AttributeDefinitions": [
+            {
+                "AttributeName": "serial",
+                "AttributeType": "S"
+            },
+            {
+                "AttributeName": "timestamp",
+                "AttributeType": "N"
+            }
+        ],
+        "TableName": "purify-pairing",
+        "KeySchema": [
+            {
+                "AttributeName": "serial",
+                "KeyType": "HASH"
+            },
+            {
+                "AttributeName": "timestamp",
+                "KeyType": "RANGE"
+            }
+        ],
+        "TableStatus": "ACTIVE",
+        "CreationDateTime": "2023-03-17T15:37:36.834000-04:00",
+        "ProvisionedThroughput": {
+            "LastDecreaseDateTime": "2023-03-17T15:47:35.340000-04:00",
+            "NumberOfDecreasesToday": 0,
+            "ReadCapacityUnits": 0,
+            "WriteCapacityUnits": 0
+        },
+        "TableSizeBytes": 17638751,
+        "ItemCount": 24091,
+        "TableArn": "arn:aws:dynamodb:us-east-2:474971317339:table/purify-pairing",
+        "TableId": "f3ccbea0-2400-424a-8d0e-6c4f21bed0d8",
+        "BillingModeSummary": {
+            "BillingMode": "PAY_PER_REQUEST",
+            "LastUpdateToPayPerRequestDateTime": "2023-05-24T14:25:32.763000-04:00"
+        }
+    }
+}

@@ -1,0 +1,223 @@
+[
+    {
+        "FunctionName": "http-crud-purify-sensor-fnc",
+        "FunctionArn": "arn:aws:lambda:us-east-2:474971317339:function:http-crud-purify-sensor-fnc",
+        "Runtime": "nodejs18.x",
+        "Role": "arn:aws:iam::474971317339:role/service-role/http-crud-purify-role",
+        "Handler": "index.handler",
+        "CodeSize": 639,
+        "Description": "",
+        "Timeout": 3,
+        "MemorySize": 128,
+        "LastModified": "2023-05-02T21:06:46.000+0000",
+        "CodeSha256": "yPcuBuww3nPhvnZj631Lr8X61kIUWSaSBYKhhp+/VxM=",
+        "Version": "$LATEST",
+        "VpcConfig": {
+            "SubnetIds": [
+                "subnet-070a270fe93d9f869",
+                "subnet-001ca368b2a2b607e",
+                "subnet-0240c95d3d935755a"
+            ],
+            "SecurityGroupIds": [
+                "sg-0a19ecc10ac703da3"
+            ],
+            "VpcId": "vpc-0c108a0c14b5e9e88"
+        },
+        "Environment": {
+            "Variables": {
+                "DB_PORT": "5432",
+                "DB_USER": "purify_user",
+                "DB_NAME": "purify_2",
+                "DB_HOST": "purify-2.csyrghww93tg.us-east-2.rds.amazonaws.com",
+                "DB_PASSWORD": "Go+G0odStuffH3re45$"
+            }
+        },
+        "TracingConfig": {
+            "Mode": "PassThrough"
+        },
+        "RevisionId": "6cc3b827-bbc7-451d-ab23-924e4b226b4b",
+        "Layers": [
+            {
+                "Arn": "arn:aws:lambda:us-east-2:474971317339:layer:utils:103",
+                "CodeSize": 244336
+            }
+        ],
+        "PackageType": "Zip",
+        "Architectures": [
+            "x86_64"
+        ],
+        "EphemeralStorage": {
+            "Size": 512
+        },
+        "SnapStart": {
+            "ApplyOn": "None",
+            "OptimizationStatus": "Off"
+        }
+    },
+    {
+        "FunctionName": "http-crud-purify-config-fnc",
+        "FunctionArn": "arn:aws:lambda:us-east-2:474971317339:function:http-crud-purify-config-fnc",
+        "Runtime": "nodejs18.x",
+        "Role": "arn:aws:iam::474971317339:role/service-role/http-crud-purify-role",
+        "Handler": "index.handler",
+        "CodeSize": 649,
+        "Description": "",
+        "Timeout": 3,
+        "MemorySize": 128,
+        "LastModified": "2023-05-02T21:17:05.000+0000",
+        "CodeSha256": "4ACcZ3Rc/wCIrvjkzUqBmK/c36R3UpOi/FU5Iy/hs1c=",
+        "Version": "$LATEST",
+        "VpcConfig": {
+            "SubnetIds": [
+                "subnet-070a270fe93d9f869",
+                "subnet-001ca368b2a2b607e",
+                "subnet-0240c95d3d935755a"
+            ],
+            "SecurityGroupIds": [
+                "sg-0a19ecc10ac703da3"
+            ],
+            "VpcId": "vpc-0c108a0c14b5e9e88"
+        },
+        "Environment": {
+            "Variables": {
+                "DB_PORT": "5432",
+                "DB_USER": "purify_user",
+                "DB_NAME": "purify_2",
+                "AWS_PARAMETERS": "PURIFY_DB_USER,PURIFY_DB_HOST,PURIFY_DB_NAME,PURIFY_DB_PASSWORD,PURIFY_DB_PORT",
+                "DB_HOST": "purify-2.csyrghww93tg.us-east-2.rds.amazonaws.com",
+                "DB_PASSWORD": "Go+G0odStuffH3re45$"
+            }
+        },
+        "TracingConfig": {
+            "Mode": "PassThrough"
+        },
+        "RevisionId": "f06d9093-6608-4a8e-8473-03796ed573a6",
+        "Layers": [
+            {
+                "Arn": "arn:aws:lambda:us-east-2:474971317339:layer:utils:103",
+                "CodeSize": 244336
+            }
+        ],
+        "PackageType": "Zip",
+        "Architectures": [
+            "x86_64"
+        ],
+        "EphemeralStorage": {
+            "Size": 512
+        },
+        "SnapStart": {
+            "ApplyOn": "None",
+            "OptimizationStatus": "Off"
+        }
+    },
+    {
+        "FunctionName": "http-crud-purify-pairing-fnc",
+        "FunctionArn": "arn:aws:lambda:us-east-2:474971317339:function:http-crud-purify-pairing-fnc",
+        "Runtime": "nodejs18.x",
+        "Role": "arn:aws:iam::474971317339:role/service-role/http-crud-purify-role",
+        "Handler": "index.handler",
+        "CodeSize": 62031,
+        "Description": "",
+        "Timeout": 3,
+        "MemorySize": 128,
+        "LastModified": "2023-05-02T21:17:50.000+0000",
+        "CodeSha256": "JRFRLIFXASXFG04lDiquoM/eyAqfaGQL9Oct/8YpGsw=",
+        "Version": "$LATEST",
+        "VpcConfig": {
+            "SubnetIds": [
+                "subnet-070a270fe93d9f869",
+                "subnet-001ca368b2a2b607e",
+                "subnet-0240c95d3d935755a"
+            ],
+            "SecurityGroupIds": [
+                "sg-0a19ecc10ac703da3"
+            ],
+            "VpcId": "vpc-0c108a0c14b5e9e88"
+        },
+        "Environment": {
+            "Variables": {
+                "DB_PORT": "5432",
+                "DB_USER": "purify_user",
+                "DB_NAME": "purify_2",
+                "DB_HOST": "purify-2.csyrghww93tg.us-east-2.rds.amazonaws.com",
+                "DB_PASSWORD": "Go+G0odStuffH3re45$"
+            }
+        },
+        "TracingConfig": {
+            "Mode": "PassThrough"
+        },
+        "RevisionId": "8284edc3-335c-466f-8e67-0252c2d028f1",
+        "Layers": [
+            {
+                "Arn": "arn:aws:lambda:us-east-2:474971317339:layer:utils:103",
+                "CodeSize": 244336
+            }
+        ],
+        "PackageType": "Zip",
+        "Architectures": [
+            "x86_64"
+        ],
+        "EphemeralStorage": {
+            "Size": 512
+        },
+        "SnapStart": {
+            "ApplyOn": "None",
+            "OptimizationStatus": "Off"
+        }
+    },
+    {
+        "FunctionName": "http-crud-purify-generator-fnc",
+        "FunctionArn": "arn:aws:lambda:us-east-2:474971317339:function:http-crud-purify-generator-fnc",
+        "Runtime": "nodejs18.x",
+        "Role": "arn:aws:iam::474971317339:role/service-role/http-crud-purify-role",
+        "Handler": "index.handler",
+        "CodeSize": 634,
+        "Description": "",
+        "Timeout": 3,
+        "MemorySize": 128,
+        "LastModified": "2023-05-02T21:18:23.000+0000",
+        "CodeSha256": "T+wPequTpKXOQmuqHrdNL74Agd7jz3ZPDS3Sb7pzVY8=",
+        "Version": "$LATEST",
+        "VpcConfig": {
+            "SubnetIds": [
+                "subnet-070a270fe93d9f869",
+                "subnet-001ca368b2a2b607e",
+                "subnet-0240c95d3d935755a"
+            ],
+            "SecurityGroupIds": [
+                "sg-0a19ecc10ac703da3"
+            ],
+            "VpcId": "vpc-0c108a0c14b5e9e88"
+        },
+        "Environment": {
+            "Variables": {
+                "DB_PORT": "5432",
+                "DB_USER": "purify_user",
+                "DB_NAME": "purify_2",
+                "DB_HOST": "purify-2.csyrghww93tg.us-east-2.rds.amazonaws.com",
+                "DB_PASSWORD": "Go+G0odStuffH3re45$"
+            }
+        },
+        "TracingConfig": {
+            "Mode": "PassThrough"
+        },
+        "RevisionId": "71627108-3622-4747-b0ba-706a47719c44",
+        "Layers": [
+            {
+                "Arn": "arn:aws:lambda:us-east-2:474971317339:layer:utils:103",
+                "CodeSize": 244336
+            }
+        ],
+        "PackageType": "Zip",
+        "Architectures": [
+            "x86_64"
+        ],
+        "EphemeralStorage": {
+            "Size": 512
+        },
+        "SnapStart": {
+            "ApplyOn": "None",
+            "OptimizationStatus": "Off"
+        }
+    }
+]

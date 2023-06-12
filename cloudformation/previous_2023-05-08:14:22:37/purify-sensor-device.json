@@ -1,0 +1,33 @@
+{
+    "Table": {
+        "AttributeDefinitions": [
+            {
+                "AttributeName": "serial",
+                "AttributeType": "S"
+            }
+        ],
+        "TableName": "purify-sensor-device",
+        "KeySchema": [
+            {
+                "AttributeName": "serial",
+                "KeyType": "HASH"
+            }
+        ],
+        "TableStatus": "ACTIVE",
+        "CreationDateTime": "2023-03-28T09:47:14.161000-04:00",
+        "ProvisionedThroughput": {
+            "LastDecreaseDateTime": "2023-03-28T09:58:30.832000-04:00",
+            "NumberOfDecreasesToday": 0,
+            "ReadCapacityUnits": 0,
+            "WriteCapacityUnits": 0
+        },
+        "TableSizeBytes": 7942,
+        "ItemCount": 209,
+        "TableArn": "arn:aws:dynamodb:us-east-2:474971317339:table/purify-sensor-device",
+        "TableId": "dce731de-8647-42af-b854-c6f368660947",
+        "BillingModeSummary": {
+            "BillingMode": "PAY_PER_REQUEST",
+            "LastUpdateToPayPerRequestDateTime": "2023-05-24T14:27:39.471000-04:00"
+        }
+    }
+}

@@ -1,0 +1,689 @@
+Executing grab-all.sh  - Monday, May 8, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Tuesday, May 9, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Tuesday, May 9, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Wednesday, May 10, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Wednesday, May 10, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Thursday, May 11, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Thursday, May 11, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Friday, May 12, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Friday, May 12, 2023, at  3:03pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Monday, May 15, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Monday, May 15, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Tuesday, May 16, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Tuesday, May 16, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Wednesday, May 17, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Wednesday, May 17, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Thursday, May 18, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Thursday, May 18, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Friday, May 19, 2023, at 10:02pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Saturday, May 20, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Saturday, May 20, 2023, at  3:05pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Sunday, May 21, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Monday, May 22, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Monday, May 22, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Tuesday, May 23, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Tuesday, May 23, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Wednesday, May 24, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Wednesday, May 24, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Thursday, May 25, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Thursday, May 25, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Friday, May 26, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Saturday, May 27, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Saturday, May 27, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Sunday, May 28, 2023, at 10:01pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Tuesday, May 30, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Tuesday, May 30, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Wednesday, May 31, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Thursday, June 1, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Thursday, June 1, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Friday, June 2, 2023, at 10:02pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Friday, June 2, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Saturday, June 3, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Monday, June 5, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Monday, June 5, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Tuesday, June 6, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Tuesday, June 6, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Wednesday, June 7, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Wednesday, June 7, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Thursday, June 8, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Friday, June 9, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Saturday, June 10, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Sunday, June 11, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Monday, June 12, 2023, at 10:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
+Executing grab-all.sh  - Monday, June 12, 2023, at  3:00pm EDT
+Exporting EC2 instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 20: aws: command not found
+Exporting VPCs
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 24: aws: command not found
+Exporting Lambda functions
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 28: aws: command not found
+Exporting IAM security groups
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 32: aws: command not found
+Exporting RDS instances
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 36: aws: command not found
+Exporting DynamoDB tables
+/Users/chris/projects/aws/cloudformation/grab-all.sh: line 40: ./get-dynamo-tables.sh: No such file or directory
